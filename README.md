@@ -10,5 +10,10 @@ All-you-need-is-RFL
 Задание 2: Собрать материалы в один файл
 -
 * [Goolge Form](https://docs.google.com/forms/d/e/1FAIpQLSdTMjM6XM-_QqdffdJi2X5J_ojoiQRSsIbHWEIyuZRdfhJIJg/viewform?usp=sf_link), сдеданная совместно с Инной Глебкиной
+* Geojson Map
 
-[Чтобы не потерять -- Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+
+
+
+
+*[Чтобы не потерять -- Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)*
